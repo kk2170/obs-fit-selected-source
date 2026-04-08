@@ -1,5 +1,7 @@
 # obs-fit-selected-source
 
+[日本語版 README](README.ja.md)
+
 Minimal OBS frontend plugin that fits the currently selected scene item to the canvas while keeping aspect ratio.
 
 ## What it does
