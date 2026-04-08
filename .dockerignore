@@ -1,0 +1,5 @@
+.docker/
+build/
+.git/
+.gitignore
+.DS_Store

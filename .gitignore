@@ -1,0 +1,5 @@
+build/
+.docker/build/
+.docker/out/
+.docker/dist/
+.DS_Store
